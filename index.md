@@ -1,5 +1,12 @@
-## Welcome to GitHub Pages
+## Projetos em andamento
 
+[Página - Artigo Medium](https://alinevmarinho.github.io/estudos/artigo/artigo.html)
+
+
+
+
+
+# COISAS PARA IGNORAR:
 You can use the [editor on GitHub](https://github.com/alinevmarinho/estudos/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
