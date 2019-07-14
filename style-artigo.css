@@ -1,0 +1,55 @@
+p   {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #545758;
+    
+    }
+
+h1  {
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: #56A0B9;
+    
+    }
+
+
+h2  {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #56A0B9;
+    
+    }
+
+
+h3  {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #56A0B9;
+    
+    }
+
+
+h6  {
+    font-family: sans-serif;
+    font-size: 12;
+    font-weight: 200;
+    color: #56A0B9;
+    
+    }
+
+.color-primary {
+    color: #C26263
+}
+
+p.legenda {
+    font-family: cursive;
+    font-size: 12px;   
+}
+
+.legenda{
+    color: blueviolet
+
+}
